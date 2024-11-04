@@ -98,10 +98,17 @@
     padding: 1rem 0;
   }
   
-  footer {
-    text-align: center;
+  #testimonials {
+    padding: 2rem;
+    background-color: #16213e;
+  }
+  
+  .testimonial {
+    max-width: 600px;
+    margin: 1rem auto;
     padding: 1rem;
-    background: #0f3460;
+    background-color: #1a1a2e;
+    border-left: 4px solid #e94560;
     color: #eaeaea;
   }
   
